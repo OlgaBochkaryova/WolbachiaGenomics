@@ -14,5 +14,5 @@ Preprint https://www.biorxiv.org/content/10.1101/2023.10.25.563763v1.abstract
 
 **Citation:**  Genome rearrangements drive evolution of ANK genes in Wolbachia
 Ekaterina V. Vostokova, Natalia O. Dranenko, Mikhail S. Gelfand, Olga O. Bochkareva
-bioRxiv 2023.10.25.563763; doi: https://doi.org/10.1101/2023.10.25.563763 
+bioRxiv 2023.10.25.563763;
 
